@@ -1,0 +1,30 @@
+.profilePhoto {
+    background: black;
+    position: relative;
+    z-index: 0;
+    height: 220px;
+}
+
+.profilePhoto__photo {
+    background: rgb(225, 201, 201);
+    border: 2px solid white;
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    z-index: 1;
+    top: 150px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profilePhoto h1 {
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    width: 300px;
+    left: 0;
+    margin-left: 28%;
+    font-size: 24px;
+}
