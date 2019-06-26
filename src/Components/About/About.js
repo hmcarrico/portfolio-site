@@ -3,14 +3,18 @@ import aboutData from './aboutData.json';
 import './About.css';
 
 function About(){
-    console.log(aboutData)
-    const mappedAbout = aboutData.map(item => {
-        return <div>
-            {item.description}
+    const mappedAbout = aboutData.map((item, i) => {
+        return <div className={i !== 6 ? 'about__container': 'about__container___blue'}>
+            <div>
+                <img src={item.icon} />
+            </div>
+            <div>
+                {item.description}
+            </div>
         </div>
     })
     return (
-        <div>
+        <div className='mappedAbout__container'>
             {mappedAbout}
         </div>
     )

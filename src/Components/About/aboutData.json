@@ -1,6 +1,30 @@
-    [
-        {
-            "icon": "",
-            "description": "HELLO"
-        }
-    ]
+[
+    {
+        "icon": "https://img.icons8.com/ios/50/000000/home.png",
+        "description": "Lives in Phoenix, Az"
+    },
+    {
+        "icon": "https://img.icons8.com/dotty/80/000000/graduation-cap.png",
+        "description": "Studied at DevMountain Phoenix"
+    },
+    {
+        "icon": "https://img.icons8.com/ios/50/000000/briefcase.png",
+        "description": "Working as a mentor at DevMountain"
+    },
+    {
+        "icon": "https://img.icons8.com/ios/64/000000/laptop.png",
+        "description": "Former Front End Web Developer at Focusloop"
+    },
+    {
+        "icon": "https://img.icons8.com/ios/50/000000/coffee.png",
+        "description": "Loves to drink coffee"
+    },
+    {
+        "icon": "https://img.icons8.com/wired/64/000000/music.png",
+        "description": "Listens to and makes edm music as a hobby"
+    },
+    {
+        "icon": "https://img.icons8.com/office/16/000000/more.png",
+        "description": "See Hunter's Resume"
+    }
+]
