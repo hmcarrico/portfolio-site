@@ -1,8 +1,11 @@
 .profilePhoto {
-    background: black;
+    background: url('https://cdn.pixabay.com/photo/2018/02/18/20/29/computer-3163437_960_720.png');
+    background-position: inherit;
+    background-repeat: repeat;
     position: relative;
     z-index: 0;
     height: 220px;
+    border-bottom: black 1px solid;
 }
 
 .profilePhoto__photo {
