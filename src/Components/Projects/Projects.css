@@ -3,11 +3,20 @@
     margin: 20px;
 }
 
+.project__main__container h3 {
+    margin: 10px;
+}
+
+
 .project__container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     text-align: center;
+}
+
+.project__container p {
+    margin: 15px;
 }
 
 .project__image {
@@ -20,4 +29,9 @@
     width: 360px;
     height: 200px;
     margin: 20px;
+}
+
+html {
+    overflow-x: hidden;
+    width: 100%;
 }

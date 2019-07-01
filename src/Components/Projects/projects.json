@@ -1,13 +1,19 @@
 [
     {
         "title": "Devway",
-        "liveLink": "www.devway.us",
+        "liveLink": "https://www.devway.us",
         "description": "React JS project based on freelance websites that makes a clean and enjoyable experience to find web development jobs. Express JS used as a server and PostgreSQL as a database, this project has two user experiences depending on whether you're a client or developer.",
         "photos": ["/media/devway1.png", "/media/devway2.png", "/media/devway3.png"]
     },
     {
+        "title": "Devmountain Tracker",
+        "liveLink": "https://www.devmountain-tracker.com",
+        "description": "Website designed to track students progress, attendance, and grades while attending devmountain. My role included receiving and interpreting an existing code base to develop, design, and optimize features. I Incorporated the use of the Google Maps API to give locations of study spots nearby as well as tracking projects for the students",
+        "photos": ["/media/tracker1.png", "/media/tracker2.png", "/media/tracker3.png"]
+    },
+    {
         "title": "Teaklong",
-        "liveLink": "www.teaklong.com",
+        "liveLink": "https://www.teaklong.com",
         "description": "React JS RESTful project that is centered around building and buying long boards and products related to them. Fully functional product browsing and cart along with stripe to checkout.",
         "photos": ["/media/teaklong1.png", "/media/teaklong2.png", "/media/teaklong3.png"]
     }
