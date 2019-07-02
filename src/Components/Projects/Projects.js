@@ -14,7 +14,7 @@ function Projects(props){
                 <Carousel 
                     infiniteLoop={true}
                     swipeable={true}
-                    width={props.windowWidth > 444 ? '400px' : '100%'}>
+                    width={props.windowWidth > 444 ? '400px' : ''}>
                     {project.photos.map(photo => {
                         return <div className="project__image">
                             <img src={photo} />
