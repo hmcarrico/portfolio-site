@@ -6,7 +6,6 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import './Projects.css';
 
 function Projects(props){
-    console.log(props.windowWidth)
     let displayProjects = projectData.map(project => {
         return <div className="project__container">
             <h3>
