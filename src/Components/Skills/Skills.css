@@ -1,0 +1,17 @@
+.skills__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
+
+.skills h1 {
+    font-size: 24px;
+    margin: 20px;
+}
+
+.skill {
+    max-height: 80px;
+    max-width: 80px;
+    margin: 15px;
+}
