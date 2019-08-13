@@ -8,7 +8,7 @@ function Header(){
                 <img src="https://cdn.auth0.com/blog/react-js/react.png" />
             </div>
             <div>
-                Thomas Carrico
+                Hunter Carrico
             </div>
             <div>
                 <img src="https://cdn.auth0.com/blog/react-js/react.png" />
