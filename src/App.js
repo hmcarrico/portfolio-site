@@ -11,10 +11,12 @@ function App() {
     <div>
         <Header />
         <ProfilePhoto />
-        <Icons />
-        <About />
-        <Skills />
-        <Projects />
+        <div className="double-container">
+          <Icons />
+          <About />
+          <Skills />
+          <Projects />
+        </div>
     </div>
   );
 }

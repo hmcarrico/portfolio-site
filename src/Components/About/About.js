@@ -21,8 +21,10 @@ function About(){
         </div>
     })
     return (
-        <div className='mappedAbout__container'>
-            {mappedAbout}
+        <div>
+            <div className='mappedAbout__container'>
+                {mappedAbout}
+            </div>
             <hr />
         </div>
     )

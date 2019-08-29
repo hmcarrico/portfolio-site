@@ -2,6 +2,7 @@
     margin-top: 20px;
     font-size: 13px;
     color: rgb(111, 109, 109);
+    margin: 0 auto;
 }
 
 .about__container {
@@ -41,3 +42,16 @@ hr {
     width: 90%;
     margin: 20px auto;
 }
+
+@media screen and (min-width: 600px){
+    .double-container {
+        width: 800px;
+        margin: 0 auto;
+    }
+    .mappedAbout__container {
+        margin: 0 auto;
+        width: 300px;
+        padding: 30px;
+    }
+}
+
